@@ -1,0 +1,15 @@
+img {
+    height: 10em;
+    display: block;
+    margin: auto;
+}
+
+.row {
+    height: 100vh;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.ng-invalid .ng-touched {
+    border-color: red; 
+}
